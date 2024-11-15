@@ -20,8 +20,7 @@
 .nav-container{
     position: fixed;
     z-index: 40;
-   width: 80%;
-    margin: 30px;
+   margin:auto;
     text-align: center;
     top: 30px;
     padding:20px 15px;
